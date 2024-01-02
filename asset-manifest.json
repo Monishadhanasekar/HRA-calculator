@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Monishadhanasekar/HRA-calculator/static/css/main.6887edae.css",
-    "main.js": "/Monishadhanasekar/HRA-calculator/static/js/main.57675d56.js",
-    "static/js/787.2a3859bf.chunk.js": "/Monishadhanasekar/HRA-calculator/static/js/787.2a3859bf.chunk.js",
-    "index.html": "/Monishadhanasekar/HRA-calculator/index.html",
-    "main.6887edae.css.map": "/Monishadhanasekar/HRA-calculator/static/css/main.6887edae.css.map",
-    "main.57675d56.js.map": "/Monishadhanasekar/HRA-calculator/static/js/main.57675d56.js.map",
-    "787.2a3859bf.chunk.js.map": "/Monishadhanasekar/HRA-calculator/static/js/787.2a3859bf.chunk.js.map"
+    "main.css": "/HRA-calculator/static/css/main.6887edae.css",
+    "main.js": "/HRA-calculator/static/js/main.f32150c1.js",
+    "static/js/787.2a3859bf.chunk.js": "/HRA-calculator/static/js/787.2a3859bf.chunk.js",
+    "index.html": "/HRA-calculator/index.html",
+    "main.6887edae.css.map": "/HRA-calculator/static/css/main.6887edae.css.map",
+    "main.f32150c1.js.map": "/HRA-calculator/static/js/main.f32150c1.js.map",
+    "787.2a3859bf.chunk.js.map": "/HRA-calculator/static/js/787.2a3859bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6887edae.css",
-    "static/js/main.57675d56.js"
+    "static/js/main.f32150c1.js"
   ]
 }
