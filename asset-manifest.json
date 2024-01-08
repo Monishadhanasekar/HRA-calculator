@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/HRA-calculator/static/css/main.6887edae.css",
-    "main.js": "/HRA-calculator/static/js/main.ee3d6956.js",
+    "main.css": "/HRA-calculator/static/css/main.80ebea57.css",
+    "main.js": "/HRA-calculator/static/js/main.de6112cd.js",
     "static/js/787.2a3859bf.chunk.js": "/HRA-calculator/static/js/787.2a3859bf.chunk.js",
     "index.html": "/HRA-calculator/index.html",
-    "main.6887edae.css.map": "/HRA-calculator/static/css/main.6887edae.css.map",
-    "main.ee3d6956.js.map": "/HRA-calculator/static/js/main.ee3d6956.js.map",
+    "main.80ebea57.css.map": "/HRA-calculator/static/css/main.80ebea57.css.map",
+    "main.de6112cd.js.map": "/HRA-calculator/static/js/main.de6112cd.js.map",
     "787.2a3859bf.chunk.js.map": "/HRA-calculator/static/js/787.2a3859bf.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6887edae.css",
-    "static/js/main.ee3d6956.js"
+    "static/css/main.80ebea57.css",
+    "static/js/main.de6112cd.js"
   ]
 }
